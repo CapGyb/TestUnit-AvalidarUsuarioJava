@@ -1,5 +1,7 @@
 # 🚀 Validador de Usuário com Testes Unitários (Java + JUnit 5)
 
+![Build Status](https://github.com/CapGyb/TestUnit-AvalidarUsuarioJava/actions/workflows/main.yml/badge.svg)
+
 ## 📌 Visão Geral
 
 Este projeto tem como objetivo validar dados de usuário (nome, email e senha) utilizando Java, com foco em **qualidade de software** através de **testes unitários com JUnit 5**.
